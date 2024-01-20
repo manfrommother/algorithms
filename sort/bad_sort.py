@@ -24,4 +24,6 @@ arr = [1, 3, 6, 0, 12, 15]
 
 print(selection_sort(arr))
 
+# [0, 1, 3, 6, 12, 15]
+
 

@@ -13,6 +13,3 @@ def binary_search(list, item):
             low = mid + 1
     return None
 
-
-lst = [1, 2, 6, 9]
-print(binary_search(lst, 6))
